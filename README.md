@@ -1,2 +1,2 @@
 # Pakistan-E-commerce-Order-Status-Prediction---Model
-Pakistan E-commerce Industry is  evolving through different phases. And till people trust  is fluctuating due to many circumstances that might effect industry credibility . Due to this Complete cancel ratio is still not stable and retailers have to face this issue . This model is to predict the order is more expected to cancel or to complete . 
+Pakistan E-commerce Industry is  evolving through different phases. And till people trust  is fluctuating due to many circumstances that might effect industry credibility . Due to this order (Complete cancel) ratio is still not stable and retailers have to face this issue . This model is to predict the order is more expected to cancel or to complete . 
