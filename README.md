@@ -114,26 +114,11 @@ This is a strong, actionable business insight — likely tied to payment verific
 **Other confirmed patterns from EDA:**
 - **Category:** Electronics & Tech is over-represented in cancellations (37.6% of cancelled orders vs 29.1% of completed orders)
 - **Price:** Cancelled orders have a higher median price (Rs. 1,299) than Completed orders (Rs. 749)
-- **Season:** Spring has the highest cancellation rate (60.3%), Winter the lowest (45.4%) — noted as a business insight, though not included as a final model feature since it didn't improve model performance beyond what `Order_month` already captured
-
----
-
-## 🖥️ Interactive Prediction App
-
-A Streamlit web app (`cancellation_predictor_app.py`) is included so anyone can test the model without writing code:
-
-```bash
-pip install streamlit
-streamlit run cancellation_predictor_app.py
-```
-
-Enter order details through a simple form (dropdowns for category/payment method, number inputs for price/quantity) and get an instant prediction with confidence score — no manual encoding required.
 
 ---
 
 ## 🛠️ Tech Stack
 - **Python**, **pandas**, **scikit-learn**, **XGBoost**
-- **Streamlit** for the interactive app
 
 ---
 
